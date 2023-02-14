@@ -6,7 +6,16 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Feb 2023 14:34:48 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 10:46:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LSP学习</title>
+      <link>http://localhost:1313/post/lsplearn/</link>
+      <pubDate>Tue, 14 Feb 2023 10:46:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/lsplearn/</guid>
+      <description>理解 Language Server Protocol 的工作原理 - 爱码帮™分享编程知识和开发经验 (icodebang.com)</description>
+    </item>
+    
     <item>
       <title>我的第一篇博客</title>
       <link>http://localhost:1313/post/first/</link>

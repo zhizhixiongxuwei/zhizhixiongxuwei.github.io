@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>我的第一篇博客 - Even - A super concise theme for Hugo</title>
+  <title>LSP学习 - Even - A super concise theme for Hugo</title>
   <meta name="renderer" content="webkit" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
@@ -16,7 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="chenzhe" /><meta name="description" content="码神之路知识体系 (mszlu.com) Go parser的学习，原始包&#43;go x tools" /><meta name="keywords" content="Hugo, theme, even" />
+<meta name="author" content="chenzhe" /><meta name="description" content="理解 Language Server Protocol 的工作原理 - 爱码帮™分享编程知识和开发经验 (icodebang.com)" /><meta name="keywords" content="Hugo, theme, even" />
 
 
 
@@ -26,7 +26,7 @@
 <meta name="generator" content="Hugo 0.110.0 with theme even" />
 
 
-<link rel="canonical" href="http://localhost:1313/post/first/" />
+<link rel="canonical" href="http://localhost:1313/post/lsplearn/" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -39,19 +39,19 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
 
-<meta property="og:title" content="我的第一篇博客" />
-<meta property="og:description" content="码神之路知识体系 (mszlu.com) Go parser的学习，原始包&#43;go x tools" />
+<meta property="og:title" content="LSP学习" />
+<meta property="og:description" content="理解 Language Server Protocol 的工作原理 - 爱码帮™分享编程知识和开发经验 (icodebang.com)" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/post/first/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2023-02-09T14:34:48+08:00" />
-<meta property="article:modified_time" content="2023-02-09T14:34:48+08:00" />
-<meta itemprop="name" content="我的第一篇博客">
-<meta itemprop="description" content="码神之路知识体系 (mszlu.com) Go parser的学习，原始包&#43;go x tools"><meta itemprop="datePublished" content="2023-02-09T14:34:48+08:00" />
-<meta itemprop="dateModified" content="2023-02-09T14:34:48+08:00" />
-<meta itemprop="wordCount" content="28">
+<meta property="og:url" content="http://localhost:1313/post/lsplearn/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-02-14T10:46:12+08:00" />
+<meta property="article:modified_time" content="2023-02-14T10:46:12+08:00" />
+<meta itemprop="name" content="LSP学习">
+<meta itemprop="description" content="理解 Language Server Protocol 的工作原理 - 爱码帮™分享编程知识和开发经验 (icodebang.com)"><meta itemprop="datePublished" content="2023-02-14T10:46:12+08:00" />
+<meta itemprop="dateModified" content="2023-02-14T10:46:12+08:00" />
+<meta itemprop="wordCount" content="27">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="我的第一篇博客"/>
-<meta name="twitter:description" content="码神之路知识体系 (mszlu.com) Go parser的学习，原始包&#43;go x tools"/>
+<meta name="twitter:title" content="LSP学习"/>
+<meta name="twitter:description" content="理解 Language Server Protocol 的工作原理 - 爱码帮™分享编程知识和开发经验 (icodebang.com)"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -124,13 +124,12 @@
           <article class="post">
     
     <header class="post-header">
-      <h1 class="post-title">我的第一篇博客</h1>
+      <h1 class="post-title">LSP学习</h1>
 
       <div class="post-meta">
-        <span class="post-time"> 2023-02-09 </span>
+        <span class="post-time"> 2023-02-14 </span>
         <div class="post-category">
-            <a href="/categories/hugo/"> hugo </a>
-            <a href="/categories/golang/"> Golang </a>
+            <a href="/categories/lsp/"> LSP </a>
             </div>
         
       </div>
@@ -143,8 +142,7 @@
   </div>
 </div>
     <div class="post-content">
-      <p><a href="https://mszlu.com/">码神之路知识体系 (mszlu.com)</a></p>
-<p>Go parser的学习，原始包+go x tools</p>
+      <p><a href="http://www.icodebang.com/article/286733">理解 Language Server Protocol 的工作原理 - 爱码帮™分享编程知识和开发经验 (icodebang.com)</a></p>
 
     </div>
 
@@ -156,7 +154,7 @@
   <p class="copyright-item">
     <span class="item-title">上次更新</span>
     <span class="item-content">
-        2023-02-09
+        2023-02-14
         
     </span>
   </p>
@@ -166,12 +164,12 @@
 <footer class="post-footer">
       
       <nav class="post-nav">
-        <a class="prev" href="/post/lsplearn/">
-            <i class="iconfont icon-left"></i>
-            <span class="prev-text nav-default">LSP学习</span>
-            <span class="prev-text nav-mobile">上一篇</span>
-          </a>
         
+        <a class="next" href="/post/first/">
+            <span class="next-text nav-default">我的第一篇博客</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
       </nav>
     </footer>
   </article>
