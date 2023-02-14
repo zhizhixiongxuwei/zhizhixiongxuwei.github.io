@@ -2,15 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/categories/ast/</loc>
+    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-02-14T10:46:12+08:00</lastmod>
+    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-02-14T10:46:12+08:00</lastmod>
+    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/parser/</loc>
+    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/%E5%90%84%E7%A7%8Dparser/</loc>
+    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,13 +52,6 @@
   
   <url>
     <loc>http://localhost:1313/post/lsplearn/</loc>
-    <lastmod>2023-02-14T10:46:12+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-02-14T10:46:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
