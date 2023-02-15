@@ -6,7 +6,34 @@
     <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 14 Feb 2023 15:00:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 18:29:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>graph</title>
+      <link>http://localhost:1313/categories/graph/</link>
+      <pubDate>Wed, 15 Feb 2023 18:29:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/categories/java/</link>
+      <pubDate>Wed, 15 Feb 2023 18:29:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JDT</title>
+      <link>http://localhost:1313/categories/jdt/</link>
+      <pubDate>Wed, 15 Feb 2023 18:29:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/jdt/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AST</title>
       <link>http://localhost:1313/categories/ast/</link>

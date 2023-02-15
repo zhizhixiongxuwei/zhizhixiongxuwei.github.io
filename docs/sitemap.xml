@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2023-02-15T18:29:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-02-15T18:29:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/graph/</loc>
+    <lastmod>2023-02-15T18:29:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/java/</loc>
+    <lastmod>2023-02-15T18:29:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/java%E7%B1%BB%E5%9E%8B%E5%9B%BE/</loc>
+    <lastmod>2023-02-15T18:29:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/jdt/</loc>
+    <lastmod>2023-02-15T18:29:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-02-15T18:29:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/ast/</loc>
     <lastmod>2023-02-14T15:00:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9,28 +58,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/categories/parser/</loc>
-    <lastmod>2023-02-14T15:00:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-02-14T15:00:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
